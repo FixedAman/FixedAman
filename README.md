@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif)
+[![MasterHead](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif)]
 <h1 align="center">Hi 👋, I'm Aman Mahish</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ibrahimhamed20.github.io/Portfolio/img/about.gif">
