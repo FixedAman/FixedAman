@@ -1,28 +1,19 @@
-# Hi, I'm Aman 👋
+Hey there! 👋
 
-💻 MERN Stack Developer
-🚀 Focused on building modern and scalable web applications
+I'm Aman, a MERN stack developer.
 
----
+I build modern web applications and enjoy turning ideas into real, working products.
 
-### 🛠️ Tech Stack
+If something interests me, chances are I’ll build it and ship it.
 
-* JavaScript (ES6+)
-* React.js
-* Node.js & Express
-* MongoDB
-* Tailwind CSS
+My main tech stack includes React, Node.js, Express, MongoDB, and Tailwind CSS.
 
----
+I’ve worked on projects like an e-commerce web app with payment integration and a gaming website using external APIs.
 
-### 📌 Projects
+I’m always improving my skills and recently interested in backend development.
 
-* 🛒 E-commerce Web App (React + Firebase + Stripe)
-* 🎮 Gaming Website (API-based)
 
----
 
-### 📫 Contact
-
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* LinkedIn: your-linkedin-url
+* Enjoy building full-stack projects
+* Recently interested in backend development
+* Like exploring new tech and tools
